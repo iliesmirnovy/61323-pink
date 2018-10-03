@@ -1,7 +1,7 @@
 # Личный проект «Пинк» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
 * Студент: [Илья Смирнов](https://up.htmlacademy.ru/adaptive/15/user/61323).
-* Наставник: `Неизвестно`.
+* Наставник: [Анна Пономарёва](https://up.htmlacademy.ru/adaptive/15/user/153610).
 
 ---
 
